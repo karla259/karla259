@@ -1,81 +1,91 @@
-# 👩‍💻 Olá! Eu sou Karla Lucinara
+<h1 align="center">👩‍💻 Olá! Eu sou Karla Lucinara</h1>
 
-🎓 Estudante de **Engenharia de Software**  
-💻 Desenvolvendo meus conhecimentos em programação e desenvolvimento de software  
-🤖 Interessada em **Inteligência Artificial, tecnologia, inovação e robótica**
+<h3 align="center">
+🎓 Estudante de Engenharia de Software
+</h3>
+
+<p align="center">
+🤖 Focada em Inteligência Artificial, Robótica, Automação e Desenvolvimento de Software
+</p>
+
+<p align="center">
+🚀 Apaixonada por tecnologia, inovação e criação de soluções inteligentes
+</p>
 
 ---
 
-## 🚀 Sobre mim
+## 🤖 Sobre mim
 
-Atualmente estou cursando Engenharia de Software e desenvolvendo projetos acadêmicos para aprimorar minhas habilidades na área de tecnologia.
+🎓 Cursando **Engenharia de Software**
 
-Meu objetivo é evoluir constantemente como desenvolvedora e construir projetos que demonstrem meus conhecimentos e minha evolução profissional.
+🧠 Tenho grande interesse em **Inteligência Artificial e Machine Learning**
+
+🤖 Quero desenvolver conhecimentos em **Robótica e Automação**
+
+💻 Estudo programação e desenvolvimento de software
+
+🚀 Meu objetivo é criar projetos inteligentes que unam **software, IA e robótica**
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🧠 Áreas que quero desenvolver
 
+- 🤖 Inteligência Artificial
+- 🦾 Robótica
+- 🧠 Machine Learning
+- ⚙️ Automação
+- 👁️ Visão Computacional
+- 💬 Assistentes e Chatbots com IA
 - 🐍 Python
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🗃️ SQL
-- 🔧 Git
-- 🐙 GitHub
-- 💻 VS Code
-- 🐍 PyCharm
-
----
-
-## 📂 Projetos
-
-### 📦 Sistema de Controle de Estoque
-Sistema desenvolvido em Python para realizar entrada e saída de produtos, validação de estoque e histórico de movimentações.
-
-### 🎮 Jogo 2D
-Projeto acadêmico desenvolvido utilizando programação em Python.
-
-### 🌐 Portfólio Web
-Site pessoal desenvolvido utilizando HTML, CSS e JavaScript.
-
----
-
-## 🌐 Meu Portfólio
-
-👉 [Acessar meu Portfólio](https://karla259.github.io/portfolio-karla/)
-
----
-
-## 📚 Atualmente estudando
-
-- Engenharia de Software
-- Desenvolvimento Web
-- Python
-- Banco de Dados
-- Inteligência Artificial
-- Git e GitHub
-
----
-
-⭐ Sempre aprendendo, criando projetos e evoluindo na área de tecnologia.
+- 🌐 Desenvolvimento de Software
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+
+</p>
 
 ---
 
-## 🎯 Objetivo Profissional
+## 🚀 Projetos
 
-Busco desenvolver meus conhecimentos em Engenharia de Software, programação e desenvolvimento de sistemas, criando projetos práticos e evoluindo constantemente como desenvolvedora.
+### 🤖 Projetos de Inteligência Artificial em desenvolvimento
+Espaço destinado aos meus futuros projetos envolvendo IA, automação e aprendizado de máquina.
 
-🚀 Sempre aprendendo, criando projetos e explorando novas tecnologias.
+### 🦾 Próximos projetos de Robótica
+Projetos e estudos voltados para robótica, sensores, automação e sistemas inteligentes.
+
+### 📦 Controle de Estoque
+Sistema desenvolvido em Python para cadastro, entrada e saída de produtos.
+
+### 🌐 Portfólio Pessoal
+Meu portfólio com projetos e evolução na área de tecnologia.
+
+---
+
+## 📚 Atualmente estudando
+
+- 🐍 Python
+- 🤖 Inteligência Artificial
+- 🦾 Robótica
+- 🧠 Machine Learning
+- 💻 Engenharia de Software
+- 🌐 HTML, CSS e JavaScript
+- 🗄️ Banco de Dados
+- 🔧 Git e GitHub
+
+---
+
+## 🎯 Meu objetivo
+
+Quero me especializar em **Inteligência Artificial e Robótica**, desenvolvendo soluções que utilizem programação, automação e sistemas inteligentes.
+
+---
+
+<p align="center">
+🤖 💜 Tecnologia + Inteligência Artificial + Robótica
+</p>
