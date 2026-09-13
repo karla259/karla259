@@ -1,4 +1,8 @@
-<h1 align="center">👩‍💻 Olá! Eu sou Karla Lucinara</h1>
+<p align="center">
+  <img src="banner_github_karla.png" width="100%">
+</p>
+
+<h1 align="center">✨ Karla Lucinara | Construindo o futuro com IA e Robótica 🤖</h1>
 
 <h3 align="center">
 🎓 Estudante de Engenharia de Software
