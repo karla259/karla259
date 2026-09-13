@@ -2,11 +2,7 @@
   <img src="banner_github_karla.png" width="100%">
 </p>
 
-<h1 align="center">✨ Karla Lucinara | Construindo o futuro com IA e Robótica 🤖</h1>
-
-<h3 align="center">
-🎓 Estudante de Engenharia de Software
-</h3>
+<h1 align="center">✨Construindo o futuro com IA e Robótica 🤖</h1>
 
 <p align="center">
 🤖 Focada em Inteligência Artificial, Robótica, Automação e Desenvolvimento de Software
