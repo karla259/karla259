@@ -2,14 +2,18 @@
   <img src="banner_github_karla.png" width="100%">
 </p>
 
-<h1 align="center">✨Construindo o futuro com IA e Robótica 🤖</h1>
+<h1 align="center">✨ Construindo o futuro com IA e Robótica 🤖</h1>
 
 <p align="center">
-🤖 Focada em Inteligência Artificial, Robótica, Automação e Desenvolvimento de Software
+  Estudante de Engenharia de Software focada em
+  <strong>Inteligência Artificial, Robótica, Automação e Desenvolvimento de Software</strong>.
 </p>
 
 <p align="center">
-🚀 Apaixonada por tecnologia, inovação e criação de soluções inteligentes
+  <img src="https://img.shields.io/badge/Inteligência%20Artificial-7C3AED?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Robótica-0891B2?style=for-the-badge&logo=probot&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Automação-EC4899?style=for-the-badge&logo=githubactions&logoColor=white">
 </p>
 
 ---
@@ -18,9 +22,9 @@
 
 🎓 Cursando **Engenharia de Software**
 
-🧠 Tenho grande interesse em **Inteligência Artificial e Machine Learning**
+🧠 Tenho interesse em **Inteligência Artificial e Machine Learning**
 
-🤖 Quero desenvolver conhecimentos em **Robótica e Automação**
+🦾 Quero desenvolver conhecimentos em **Robótica e Automação**
 
 💻 Estudo programação e desenvolvimento de software
 
@@ -28,42 +32,45 @@
 
 ---
 
-## 🧠 Áreas que quero desenvolver
-
-- 🤖 Inteligência Artificial
-- 🦾 Robótica
-- 🧠 Machine Learning
-- ⚙️ Automação
-- 👁️ Visão Computacional
-- 💬 Assistentes e Chatbots com IA
-- 🐍 Python
-- 🌐 Desenvolvimento de Software
-
----
-
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Linguagens e Tecnologias
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Projetos
+## 🧠 Áreas de interesse
 
-### 🤖 Projetos de Inteligência Artificial em desenvolvimento
-Espaço destinado aos meus futuros projetos envolvendo IA, automação e aprendizado de máquina.
+<p align="center">
+  <img src="https://img.shields.io/badge/IA-Inteligência%20Artificial-8B5CF6?style=flat-square">
+  <img src="https://img.shields.io/badge/Robótica-Automação-06B6D4?style=flat-square">
+  <img src="https://img.shields.io/badge/Machine-Learning-F472B6?style=flat-square">
+  <img src="https://img.shields.io/badge/Visão-Computacional-3B82F6?style=flat-square">
+  <img src="https://img.shields.io/badge/Assistentes-IA-14B8A6?style=flat-square">
+</p>
 
-### 🦾 Próximos projetos de Robótica
-Projetos e estudos voltados para robótica, sensores, automação e sistemas inteligentes.
+---
 
-### 📦 Controle de Estoque
-Sistema desenvolvido em Python para cadastro, entrada e saída de produtos.
+## 📊 Estatísticas
 
-### 🌐 Portfólio Pessoal
-Meu portfólio com projetos e evolução na área de tecnologia.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karla259&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karla259&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+</p>
+
+---
+
+## 📌 Meus projetos
+
+### 📦 [Controle de Estoque](https://github.com/karla259/controle-de-estoque)
+Sistema desenvolvido em **Python** para cadastro, entrada e saída de produtos.
+
+### 🌐 [Portfólio Pessoal](https://github.com/karla259/portfolio-pessoal)
+Projeto de portfólio para apresentar minha evolução, estudos e projetos na área de tecnologia.
+
+### 💻 [Portfólio Engenharia de Software](https://github.com/karla259/portfolio-engenharia-software)
+Projetos e atividades relacionados à minha formação em Engenharia de Software.
 
 ---
 
@@ -86,6 +93,20 @@ Quero me especializar em **Inteligência Artificial e Robótica**, desenvolvendo
 
 ---
 
+## 🌐 Meu GitHub
+
 <p align="center">
-🤖 💜 Tecnologia + Inteligência Artificial + Robótica
+
+<a href="https://github.com/karla259">
+  <img src="https://img.shields.io/badge/GitHub-karla259-181717?style=for-the-badge&logo=github">
+</a>
+
+<img src="https://img.shields.io/github/followers/karla259?style=for-the-badge&logo=github&label=Seguidores">
+
+</p>
+
+---
+
+<p align="center">
+  🤖 💜 <strong>Tecnologia • Inteligência Artificial • Robótica</strong> 💜 🤖
 </p>
