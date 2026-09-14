@@ -2,18 +2,19 @@
   <img src="banner_github_karla.png" width="100%">
 </p>
 
-<h1 align="center">✨ Construindo o futuro com IA e Robótica 🤖</h1>
+<h1 align="center">
+  ✨ Karla Lucinara | Construindo o futuro com IA e Robótica 🤖
+</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software focada em
-  <strong>Inteligência Artificial, Robótica, Automação e Desenvolvimento de Software</strong>.
+  🎓 Estudante de Engenharia de Software focada em Inteligência Artificial, Robótica, Automação e Desenvolvimento de Software.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Inteligência%20Artificial-7C3AED?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Robótica-0891B2?style=for-the-badge&logo=probot&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Automação-EC4899?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/INTELIGÊNCIA%20ARTIFICIAL-7B61FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ROBÓTICA-00C2CB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PYTHON-2496ED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AUTOMAÇÃO-FF5C5C?style=for-the-badge">
 </p>
 
 ---
@@ -28,14 +29,16 @@
 
 💻 Estudo programação e desenvolvimento de software
 
-🚀 Meu objetivo é criar projetos inteligentes que unam **software, IA e robótica**
+🚀 Meu objetivo é criar projetos inteligentes que unam **Software, IA e Robótica**
 
 ---
 
 ## 🚀 Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+
 </p>
 
 ---
@@ -43,20 +46,13 @@
 ## 🧠 Áreas de interesse
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IA-Inteligência%20Artificial-8B5CF6?style=flat-square">
-  <img src="https://img.shields.io/badge/Robótica-Automação-06B6D4?style=flat-square">
-  <img src="https://img.shields.io/badge/Machine-Learning-F472B6?style=flat-square">
-  <img src="https://img.shields.io/badge/Visão-Computacional-3B82F6?style=flat-square">
-  <img src="https://img.shields.io/badge/Assistentes-IA-14B8A6?style=flat-square">
-</p>
 
----
+<img src="https://img.shields.io/badge/IA-Inteligência%20Artificial-7B61FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Robótica-Automação-00C2CB?style=for-the-badge">
+<img src="https://img.shields.io/badge/Machine-Learning-FF69B4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Visão-Computacional-2496ED?style=for-the-badge">
+<img src="https://img.shields.io/badge/Assistentes-IA-32CD32?style=for-the-badge">
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karla259&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karla259&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
 </p>
 
 ---
@@ -64,13 +60,20 @@
 ## 📌 Meus projetos
 
 ### 📦 [Controle de Estoque](https://github.com/karla259/controle-de-estoque)
+
 Sistema desenvolvido em **Python** para cadastro, entrada e saída de produtos.
 
+---
+
 ### 🌐 [Portfólio Pessoal](https://github.com/karla259/portfolio-pessoal)
+
 Projeto de portfólio para apresentar minha evolução, estudos e projetos na área de tecnologia.
 
+---
+
 ### 💻 [Portfólio Engenharia de Software](https://github.com/karla259/portfolio-engenharia-software)
-Projetos e atividades relacionados à minha formação em Engenharia de Software.
+
+Projetos e atividades relacionados à minha formação em **Engenharia de Software**.
 
 ---
 
@@ -104,6 +107,7 @@ Quero me especializar em **Inteligência Artificial e Robótica**, desenvolvendo
 <img src="https://img.shields.io/github/followers/karla259?style=for-the-badge&logo=github&label=Seguidores">
 
 </p>
+
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -112,16 +116,22 @@ Quero me especializar em **Inteligência Artificial e Robótica**, desenvolvendo
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karla259&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karla259&theme=tokyonight" />
 </p>
+---
 
-### 🔥 Atividade no GitHub
+## 🔥 Atividade no GitHub
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=karla259&theme=tokyonight&hide_border=true&locale=pt_BR"
-  />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karla259&theme=tokyonight&hide_border=true" />
+
 </p>
+
 ---
 
 <p align="center">
-  🤖 💜 <strong>Tecnologia • Inteligência Artificial • Robótica</strong> 💜 🤖
+🤖 💜 <strong>Tecnologia • Inteligência Artificial • Robótica</strong> 💜 🤖
+</p>
+
+<p align="center">
+✨ Aprender • Evoluir • Criar • Impactar ✨
 </p>
