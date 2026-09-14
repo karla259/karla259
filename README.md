@@ -104,7 +104,22 @@ Quero me especializar em **Inteligência Artificial e Robótica**, desenvolvendo
 <img src="https://img.shields.io/github/followers/karla259?style=for-the-badge&logo=github&label=Seguidores">
 
 </p>
+---
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karla259&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karla259&theme=tokyonight" />
+</p>
+
+### 🔥 Atividade no GitHub
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=karla259&theme=tokyonight&hide_border=true&locale=pt_BR"
+  />
+</p>
 ---
 
 <p align="center">
